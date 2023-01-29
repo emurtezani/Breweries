@@ -1,4 +1,4 @@
-# Breweries
+# Beers from breweries
 
 **Student project of retrieving data from an online API**
 

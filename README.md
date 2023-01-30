@@ -1,5 +1,5 @@
 # Beers from breweries
 
-**Student project of retrieving data from an online API**
+**Student project of retrieving data from the online Open Brewery DB API**
 
   > Recording retrieved data in HTML and Word formats
